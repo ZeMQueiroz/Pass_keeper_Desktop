@@ -1,0 +1,7 @@
+venv/
+passwords.db
+secret.key
+.env
+__pycache__/
+*.py[cod]
+.DS_Store
